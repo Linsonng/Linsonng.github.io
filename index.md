@@ -1,26 +1,17 @@
 ## Welcome to My Pages
 <!---
---><div class="row">
-	  <div class="col-md-2">
-	    <img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
-	  </div>
-	  <div class="col-md-10">
-
-            <h2>**Li Pengze**</h2>
-            <p> **UnderGraduate**<br>
-                **Electrionic Science and Technology**<br>
-	          </p>
-	  </div>
-	</div>
-
-<br>
-<br>
-
-
+-->
+<img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
+**Pengze Li**
+**UnderGraduate**
+**Electrionic Science and Technology**
+	          
 
 
 
 My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. Now I am applying for postgraduate programmes.
+
+* I sometimes use Sonng Lin as a pseudonym.
 
 **E-mail: linsonng@bupt.edu.cn**
 

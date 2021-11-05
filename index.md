@@ -1,10 +1,21 @@
 ## Welcome to My Pages
 <!---
--->
-<img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
-**Li Pengze**<br>
-**UnderGraduate**<br>
-**Electrionic Science and Technology**
+--><div class="row">
+	  <div class="col-md-2">
+	    <img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
+	  </div>
+	  <div class="col-md-10">
+
+            <h2>**Li Pengze**</h2>
+            <p> **UnderGraduate**<br>
+                **Electrionic Science and Technology**<br>
+	          </p>
+	  </div>
+	</div>
+
+<br>
+<br>
+
 
 
 

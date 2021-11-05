@@ -74,11 +74,11 @@ When I was focus on telecommunications, I joined this research in which I studie
 
 ### College Students' Innovative Entrepreneurial Training Plan Programs
 The Proper Noun Translator in Thai-and-Chinese Language Based on Python<br>
-Academic Supervisor: Assoc. Prof. Jianming Huang Jun. 2020~May 2021<br>
+Academic Supervisor: Assoc. Prof. Jianming Huang Jun. 2020 May 2021<br>
 Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
-Academic Supervisor: Prof. Yang Ji Sep. 2019~Jul. 2020<br>
+Academic Supervisor: Prof. Yang Ji Sep. 2019 Jul. 2020<br>
 College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
-Position: Person in Charge Academic Supervisor: Yuan Sun Jun. 2019~Jul. 20<br>
+Position: Person in Charge Academic Supervisor: Yuan Sun Jun. 2019 Jul. 20<br>
 
 ### HONORS & AWARDS
 School-level Scholarship, BUPT Oct. 2021<br>

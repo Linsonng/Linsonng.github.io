@@ -46,9 +46,9 @@ In this project, our lab focused on denoising network acceleration based on conv
 * Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
 * Pruning was the first way I turned to, and I also developed some other architectures and tried many tricks. 
 
-_click <a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">here</a> to watch a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
+<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 
-<video width="320" height="240" controls>
+<video width="640" height="720" controls>
     <source src="snowboard1.mp4" type="video/mp4">
     Your browser does not support the video tag
 </video>

@@ -48,8 +48,9 @@ Pruning was the first way I turned to, and I also developed some other architect
 
 click <a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.MP4">here</a> to watch a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Please pause at any time to observe the performance of denoising.
 
-<video src="snowboard1.MP4" controls="controls">
-Your browser does not support the video tag.
+<video width="320" height="240" controls>
+    <source src="snowboard.MP4" type="video/mp4">
+    Your browser does not support the video tag
 </video>
 
 

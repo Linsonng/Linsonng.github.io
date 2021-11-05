@@ -41,12 +41,12 @@ Institute of Automation, Chinese Academy of Science<br>
 Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)<br>
 Academic Supervisor: Jian Cheng (Research Fellow), Chenghua Li, May 2021~Present<br>
 
+In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on RTX TITAN. Currently, we are summarizing and illustrating our research outcome on a paper, which will be submitted to IEEE CVPR 2022. Here are some of my works:<br>
+Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
+Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
+Pruning was the first way I turned to, and I also developed some other architectures and tried many tricks. 
 
-In this project, our lab focused on denoising network acceleration based on convolutional neural networks. Here is my works:<br>
-Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. I was mainly in charge of 
-Besides pre-study, such as reproducing and retraining several models listed in scientific papers, I helped accelerate the inference time of original models and improve the Peak Signal to Noise Ratio (PSNR) by re-designing the architecture of Encoder and Decoder Blocks. Till now, I have developed two models. One of them has the same architecture as FastDVDnet, which realized a notable speed increase with a small reduction in PSNR. Specifically, it can reduce time consumption from 80ms to approx. 17ms; the other model has a completely new architecture, achieving a speed increase while its PSNR remains almost the same as FastDVDnet’s. And the time consumption of the second model was reduced to 20ms.
-
-Currently, we are summarizing and illustrating our research outcome on a paper, which will be submitted to IEEE CVPR 2022.
+click <a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard.mp4">here</a> to watch a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Please pause at any time to observe the performance of denoising.
 
 
 

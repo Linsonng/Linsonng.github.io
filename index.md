@@ -2,14 +2,14 @@
 <!---
 -->
 <img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
+**Li Pengze**
+**UnderGraduate**
+**Electrionic Science and Technology**
 
 
 
-Li Pengze
-UnderGraduate
-Electrionic Science and Technology
 
-My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. 
+My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. Now I am applying for postgraduate programmes.
 
 **E-mail: linsonng@bupt.edu.cn**
 

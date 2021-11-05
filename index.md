@@ -1,9 +1,9 @@
 ## Welcome to My Pages
 ![Image](https://github.com/Linsonng/Linsonng.github.io/blob/main/mypicture.jpg)
 
-### Li Pengze
-### UnderGraduate
-### Electrionic Science and Technology
+Li Pengze
+UnderGraduate
+Electrionic Science and Technology
 
 My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology.My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. 
 You can use the [editor on GitHub](https://github.com/Linsonng/Linsonng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.

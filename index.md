@@ -41,7 +41,7 @@ Institute of Automation, Chinese Academy of Science<br>
 Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)<br>
 Academic Supervisor: Jian Cheng (Research Fellow), Chenghua Li, May 2021~Present<br>
 
-In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, we are summarizing and illustrating our research outcome on a paper, which will be submitted to IEEE CVPR 2022. Here are some of my works:<br>
+In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, we are summarizing and illustrating our research outcome on a paper, which will be submitted to IEEE CVPR 2022. Here are some of my work:<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
 * Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
 * Pruning was the first way I turned to, and I also developed some other architectures and tried many tricks. 

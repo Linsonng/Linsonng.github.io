@@ -1,5 +1,8 @@
 ## Welcome to My Pages
 ![Mypicture](https://github.com/Linsonng/Linsonng.github.io/blob/main/pic1.png)
+<img src="https://github.com/Linsonng/Linsonng.github.io/blob/main/pic1.png" width="200" height="200" alt="lpz"/><br/>
+\
+
 
 Li Pengze
 UnderGraduate

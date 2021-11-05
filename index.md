@@ -2,9 +2,9 @@
 <!---
 -->
 <img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
-**Pengze Li**
-**UnderGraduate**
-**Electrionic Science and Technology**
+**Pengze Li**<br>
+**UnderGraduate**<br>
+**Electrionic Science and Technology**<br>
 
 
 My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. Now I am applying for postgraduate programmes.
@@ -25,11 +25,30 @@ Sep. 2015~Jul. 2018<br>
 Beijing 101 Middle School <br>
 Beijing, China<br>
 
-**Short-term education experience**
-23 Jan. to 06 Feb., 2021<br>
+**Short-term education experience**<br>
+23 Jan. to 06 Feb. 2021(18 contact hours)<br>
 School of Continuing and Lifelong Education in collaboration with Faculty of Engineering, National University of Singapore<br>
 Online<br>
-Programme Name: Artifical Intelligence and Machine Learning
+Programme Name: Artifical Intelligence and Machine Learning<br>
+
+15 Jul. to 30 Sep. 2019<br>
+STEM summer school, Loughborough University<br>
+Leicester, UK<br>
+STEM lab
+
+### Research Experience
+Institute of Automation, Chinese Academy of Science<br>
+Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)<br>
+Academic Supervisor: Jian Cheng (Research Fellow), Chenghua Li, May 2021~Present<br>
+
+
+In this project, our lab focused on denoising network acceleration based on convolutional neural networks. Here is my works:<br>
+Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. I was mainly in charge of 
+Besides pre-study, such as reproducing and retraining several models listed in scientific papers, I helped accelerate the inference time of original models and improve the Peak Signal to Noise Ratio (PSNR) by re-designing the architecture of Encoder and Decoder Blocks. Till now, I have developed two models. One of them has the same architecture as FastDVDnet, which realized a notable speed increase with a small reduction in PSNR. Specifically, it can reduce time consumption from 80ms to approx. 17ms; the other model has a completely new architecture, achieving a speed increase while its PSNR remains almost the same as FastDVDnet’s. And the time consumption of the second model was reduced to 20ms.
+
+Currently, we are summarizing and illustrating our research outcome on a paper, which will be submitted to IEEE CVPR 2022.
+
+
 
 
 ###

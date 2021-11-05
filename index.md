@@ -2,8 +2,8 @@
 <!---
 -->
 <img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
-**Li Pengze**
-**UnderGraduate**
+**Li Pengze**<br>
+**UnderGraduate**<br>
 **Electrionic Science and Technology**
 
 

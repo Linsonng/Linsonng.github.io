@@ -11,7 +11,7 @@
 
 My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. Now I am applying for postgraduate programmes.
 
-* I sometimes use Sonng Lin as a pseudonym.
+*I sometimes use Sonng Lin as a pseudonym.
 
 **E-mail: linsonng@bupt.edu.cn**
 

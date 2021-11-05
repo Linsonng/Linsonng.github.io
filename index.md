@@ -48,7 +48,7 @@ In this project, our lab focused on denoising network acceleration based on conv
 
 <a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 
-<video width="480" height="540" controls>
+<video width="360" height="270" controls>
     <source src="snowboard1.mp4" type="video/mp4">
     Your browser does not support the video tag
 </video>

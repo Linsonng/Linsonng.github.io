@@ -73,4 +73,22 @@ Academic Supervisor: Prof. <a target="_blank" href="https://www.ee.ucl.ac.uk/~kw
 When I was focus on telecommunications, I joined this research in which I studied the communications knowledge of cellular network and frequency planning, including system modeling, channelfading, water-filling power allocation algorithm, and frequency reuse algorithms often used in 4G/ 5G networks, such as IFR(Integer Frequency Reuse) and FFR(Fractional Frequency Reuse). Models were built on Matlab to simulate signal transmission of QPSK, 16-QAM, 64-QAM, etc. Based on the FFR frequency multiplexing algorithm combined with soft frequency reuse (SFR) technique, optimized the frequency allocation algorithm and improved spectral efficiency finallye improved anti-noise performance and channel capacity.
 
 ### College Students' Innovative Entrepreneurial Training Plan Programs
-The Proper Noun Translator in Thai-and-Chinese Language Based on Python
+The Proper Noun Translator in Thai-and-Chinese Language Based on Python<br>
+Academic Supervisor: Assoc. Prof. Jianming Huang Jun. 2020~May 2021<br>
+Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
+Academic Supervisor: Prof. Yang Ji Sep. 2019~Jul. 2020<br>
+College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
+Position: Person in Charge Academic Supervisor: Yuan Sun Jun. 2019~Jul. 20<br>
+
+### HONORS & AWARDS
+School-level Scholarship, BUPT Oct. 2021<br>
+School-level Scholarship, BUPT Oct. 2020<br>
+School-level Scholarship Learning Progress, BUPT Oct. 2020<br>
+Second Prize of the Electronics Information Design Contest, BUPT May 202<br>
+
+### QUALIFICATIONS
+Language skills: IELTS(6.5) TOEFL(Not known yet) GRE(Not known yet)
+Mastery: Python, C, Java, MATLAB
+
+### Others
+Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a>

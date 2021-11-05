@@ -11,11 +11,11 @@ My name is Pengze Li, a college student from Beijing University of Posts and Tel
 
 
 
-**E-mail: linsonng@bupt.edu.cn**
+**E-mail: linsonng@bupt.edu.cn**<br>
 *I sometimes use Sonng Lin as a pseudonym.
 
-###**Educations**
-**Main education experience**
+### Educations
+**Main education experience**<br>
 Sep. 2018~Jul. 2022<br>
 Beijing University of Posts and Telecommunications (BUPT)<br>
 Beijing, China<br>

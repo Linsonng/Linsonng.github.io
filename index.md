@@ -1,7 +1,7 @@
 ## Welcome to My Pages
 <!---
 -->
-<img src="https://github.com/Linsonng/Linsonng.github.io/blob/main/pic1.png" width="217" height="281" alt="lpz"/><br/>
+<img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
 
 
 
@@ -10,6 +10,8 @@ UnderGraduate
 Electrionic Science and Technology
 
 My name is Pengze Li, a college student from Beijing University of Posts and Telecommunications (BUPT), majoring in Electronic Science and Technology. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems. 
+
+**E-mail: linsonng@bupt.edu.cn**
 
 ###
 

@@ -1,7 +1,8 @@
 ## Welcome to My Pages
 <!---
-<img src="https://github.com/Linsonng/Linsonng.github.io/blob/main/pic1.png" width="217" height="281" alt="lpz"/><br/>
 -->
+<img src="https://github.com/Linsonng/Linsonng.github.io/blob/main/pic1.png" width="217" height="281" alt="lpz"/><br/>
+
 
 
 Li Pengze

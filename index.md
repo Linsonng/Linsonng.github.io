@@ -1,5 +1,5 @@
 ## Welcome to My Pages
-![Mypicture](https://raw.githubusercontent.com/Linsonng/Linsonng.github.io/main/mypicture.jpg)
+![Mypicture](https://github.com/Linsonng/Linsonng.github.io/blob/main/mypicture.jpg)
 
 Li Pengze
 UnderGraduate

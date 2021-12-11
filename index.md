@@ -76,23 +76,23 @@ When I was focus on telecommunications, I joined this research in which I studie
 ### College Students' Innovative Entrepreneurial Training Plan Programs
 The Proper Noun Translator in Thai-and-Chinese Language Based on Python<br>
 _Academic Supervisor: Assoc. Prof. Jianming Huang Jun. 2020 May 2021_<br>
-	Designed a translator dedicated to translate Thai personal names and geographical names, which mainly contained four modules: Romanization transcription of Thai letters, Roman transcription-Chinese transliteration (corresponded), Dictionary word search and user interface.
-	Mainly responsible for realizing the functions mentioned above based on algorithms Python, completed to write the functions, such as cutting the vowels and consonants for Thai and Roman transcriptions, and optimization tasks.
+* Designed a translator dedicated to translate Thai personal names and geographical names, which mainly contained four modules: Romanization transcription of Thai letters, Roman transcription-Chinese transliteration (corresponded), Dictionary word search and user interface.
+* Mainly responsible for realizing the functions mentioned above based on algorithms Python, completed to write the functions, such as cutting the vowels and consonants for Thai and Roman transcriptions, and optimization tasks.
 
 Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
 _Academic Supervisor: Prof. Yang Ji Sep. 2019 Jul. 202_0<br>
-	Crawled copyright-free images from different Internet communities, classified and store them in the database.
-	Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
-	Completed the tasks of image recognition leveraging OpenCV for Python TensorFlow, semantic analysis with TensorFlow for Python, and image crawling using Python, and utilized MySQL in the part of the database.
-	Involved in the work of product operation, pre-research, and mid-term project management, and completed some parts of coding tasks.
+* Crawled copyright-free images from different Internet communities, classified and store them in the database.
+* Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
+* Completed the tasks of image recognition leveraging OpenCV for Python TensorFlow, semantic analysis with TensorFlow for Python, and image crawling using Python, and utilized MySQL in the part of the database.
+* Involved in the work of product operation, pre-research, and mid-term project management, and completed some parts of coding tasks.
 
 
 College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
 _Position: Person in Charge Academic Supervisor: Yuan Sun Jun. 2019 Jul. 20_<br>
-	Built a 1: 1 real-scene 3D map of BUPT campus using Unity 3D for users to virtually visit the Beijing University of Posts and Telecommunications.
-	Put our 3D map packaged into PC-end software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.
-	Conducted tasks of project management, algorithm design, and quality test.
-	This project scored 90/100 and got selected as the municipal level project in Beijing.
+* Built a 1: 1 real-scene 3D map of BUPT campus using Unity 3D for users to virtually visit the Beijing University of Posts and Telecommunications.
+* Put our 3D map packaged into PC-end software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.
+* Conducted tasks of project management, algorithm design, and quality test.
+* This project scored 90/100 and got selected as the municipal level project in Beijing.
 
 
 ### HONORS & AWARDS

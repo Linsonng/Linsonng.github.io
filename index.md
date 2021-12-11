@@ -74,10 +74,12 @@ _Academic Supervisor: Prof. <a target="_blank" href="https://www.ee.ucl.ac.uk/~k
 When I was focus on telecommunications, I joined this research in which I studied the communications knowledge of cellular network and frequency planning, including system modeling, channelfading, water-filling power allocation algorithm, and frequency reuse algorithms often used in 4G/ 5G networks, such as IFR(Integer Frequency Reuse) and FFR(Fractional Frequency Reuse). Models were built on Matlab to simulate signal transmission of QPSK, 16-QAM, 64-QAM, etc. Based on the FFR frequency multiplexing algorithm combined with soft frequency reuse (SFR) technique, optimized the frequency allocation algorithm and improved spectral efficiency finallye improved anti-noise performance and channel capacity.<br>
 
 ### College Students' Innovative Entrepreneurial Training Plan Programs
+
 The Proper Noun Translator in Thai-and-Chinese Language Based on Python<br>
 _Academic Supervisor: Assoc. Prof. Jianming Huang from Jun. 2020 to May. 2021_<br>
 * Designed a translator dedicated to translate Thai personal names and geographical names, which mainly contained four modules: Romanization transcription of Thai letters, Roman transcription-Chinese transliteration (corresponded), Dictionary word search and user interface.
 * Mainly responsible for realizing the functions mentioned above based on algorithms Python, completed to write the functions, such as cutting the vowels and consonants for Thai and Roman transcriptions, and optimization tasks.
+* <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=2559">Intranet link</a>
 
 Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
 _Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020<br>
@@ -85,6 +87,7 @@ _Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020<br>
 * Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
 * Completed the tasks of image recognition leveraging OpenCV for Python TensorFlow, semantic analysis with TensorFlow for Python, and image crawling using Python, and utilized MySQL in the part of the database.
 * Involved in the work of product operation, pre-research, and mid-term project management, and completed some parts of coding tasks.
+* <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=1672">Intranet link</a>
 
 
 College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
@@ -94,6 +97,7 @@ _Position: Person in Charge Academic Supervisor: Yuan Sun from Jun. 2019 to Jul.
 * Put our 3D map packaged into PC software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.
 * Conducted tasks of project management, algorithm design, and quality test.
 * This project scored 90/100 and got selected as the municipal level project in Beijing.
+* <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=1179">Intranet link</a>
 
 
 ### HONORS & AWARDS
@@ -110,5 +114,5 @@ Language skills: IELTS(6.5) TOEFL(95) GRE(315)<br>
 Mastery: Python, C, Java, MATLAB
 
 ### Others
-Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a>
+Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a><br>
 Second favourite field: medical science and neuroscience.

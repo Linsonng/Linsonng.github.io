@@ -75,12 +75,12 @@ When I was focus on telecommunications, I joined this research in which I studie
 
 ### College Students' Innovative Entrepreneurial Training Plan Programs
 The Proper Noun Translator in Thai-and-Chinese Language Based on Python<br>
-_Academic Supervisor: Assoc. Prof. Jianming Huang Jun. 2020 May 2021_<br>
+_Academic Supervisor: Assoc. Prof. Jianming Huang from Jun. 2020 to May. 2021_<br>
 * Designed a translator dedicated to translate Thai personal names and geographical names, which mainly contained four modules: Romanization transcription of Thai letters, Roman transcription-Chinese transliteration (corresponded), Dictionary word search and user interface.
 * Mainly responsible for realizing the functions mentioned above based on algorithms Python, completed to write the functions, such as cutting the vowels and consonants for Thai and Roman transcriptions, and optimization tasks.
 
 Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
-_Academic Supervisor: Prof. Yang Ji Sep. 2019 Jul. 202_0<br>
+_Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020<br>
 * Crawled copyright-free images from different Internet communities, classified and store them in the database.
 * Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
 * Completed the tasks of image recognition leveraging OpenCV for Python TensorFlow, semantic analysis with TensorFlow for Python, and image crawling using Python, and utilized MySQL in the part of the database.
@@ -88,22 +88,27 @@ _Academic Supervisor: Prof. Yang Ji Sep. 2019 Jul. 202_0<br>
 
 
 College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
-_Position: Person in Charge Academic Supervisor: Yuan Sun Jun. 2019 Jul. 20_<br>
-* Built a 1: 1 real-scene 3D map of BUPT campus using Unity 3D for users to virtually visit the Beijing University of Posts and Telecommunications.
-* Put our 3D map packaged into PC-end software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.
+_Position: Person in Charge Academic Supervisor: Yuan Sun from Jun. 2019 to Jul. 20_<br>
+* This is my first College Students' Innovative Entrepreneurial Training Plan Program, and I am the leader of this Program.
+* Using Unity 3D, built a 1: 1 real-scene 3D map of BUPT campus for users to virtually visit the Beijing University of Posts and Telecommunications(My university). Users are able to walk in this map and view the scene.
+* Put our 3D map packaged into PC software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.
 * Conducted tasks of project management, algorithm design, and quality test.
 * This project scored 90/100 and got selected as the municipal level project in Beijing.
 
 
 ### HONORS & AWARDS
-School-level Scholarship, BUPT Oct. 2021<br>
-School-level Scholarship, BUPT Oct. 2020<br>
-School-level Scholarship Learning Progress, BUPT Oct. 2020<br>
-Second Prize of the Electronics Information Design Contest, BUPT May 202<br>
+School-level Scholarship, BUPT	Oct. 2021<br>
+Third Prize of the (Microsoft) Imagine Cup Innovation Competition, BUPT Division	Dec. 2020<br>
+School-level Scholarship, BUPT	Oct. 2020<br>
+School-level Scholarship Learning Progress, BUPT	Oct. 2020<br>
+Honorable Mention of China College Students' 'Internet Plus' Innovation and Entrepreneurship Competition	Sep. 2020<br>
+Second Prize of the Electronics Information Design Contest, BUPT	May 2020<br>
+
 
 ### QUALIFICATIONS
-Language skills: IELTS(6.5) TOEFL(Not known yet) GRE(Not known yet)<br>
+Language skills: IELTS(6.5) TOEFL(95) GRE(315)<br>
 Mastery: Python, C, Java, MATLAB
 
 ### Others
 Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a>
+Second favourite field: medical science and neuroscience.

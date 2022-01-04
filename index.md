@@ -109,10 +109,6 @@ Honorable Mention of China College Students' 'Internet Plus' Innovation and Entr
 Second Prize of the Electronics Information Design Contest, BUPT	May 2020<br>
 
 
-### QUALIFICATIONS
-Language skills: IELTS(6.5) TOEFL(95) GRE(315)<br>
-Mastery: Python, C, Java, MATLAB
-
 ### Others
 Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a><br>
 Second favourite field: medical science and neuroscience.

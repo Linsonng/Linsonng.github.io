@@ -54,7 +54,7 @@ _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/ma
 </video>
 
 **Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction**<br>
-_Academic Supervisor: Dr. Junli Yang, Sep.2020~Present_<br>
+_Academic Supervisor: Dr. Junli Yang, Sep.2020~Present_<br> 
 
 In the DeepGlobe Road Extraction Challenge, our team aims to receive a better IOU score than other teams. Based on DLinkNet, we managed to improve the score through reproducing and training models on the 3090ti server using PyTorch. We also designed the fusion consisting of multiple models, such as ResNet, D-LinkNet, SENet, D-block, Transformer, and some other new modules. After adopting the pooling feature map to adapt the narrow-and-slender feature in road extraction tasks, we received expected improvements in IoU scores. Moreover, we conducted road extraction tasks based on Transformer and Convolutional Neural Network (CNN), and compared the results of them, which showed that CNN performs better.<br>
 

@@ -1,7 +1,7 @@
 ## Welcome to My Pages
 <!---
 -->
-<img src="pic1.png" class="img-rounded" width="217" height="281" alt="lpz"/><br/>
+<img src="pic.png" class="img-rounded" width="217" height="281" alt="Something wrong with the picture!"/><br/>
 **Pengze Li**<br>
 **UnderGraduate**<br>
 **Electrionic Science and Technology**<br>

@@ -41,10 +41,11 @@ _Research on Denoising Network Acceleration Based on Convolutional Neural Networ
 _Institute of Automation, Chinese Academy of Science_<br>
 _Academic Supervisor: Jian Cheng (Research Fellow), Chenghua Li, May 2021~Present_<br>
 
-In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network, trying to submit a paper about video denoising to ECCV. Here are some of my work(before 2021.11):<br>
+In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network, and trying my best to submit a paper about video denoising to ECCV. Here are some of my work(before 2022.1):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
 * Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
 * Pruning was the first way I turned to, and I also developed some other architectures and tried many tricks. 
+* To propose a better motion modeling scheme based on 3D convolution
 
 _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 

@@ -83,7 +83,7 @@ _Academic Supervisor: Assoc. Prof. Jianming Huang from Jun. 2020 to May. 2021_<b
 * <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=2559">Intranet link</a>
 
 Develop of an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
-_Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020<br>
+_Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020_<br>
 * Crawled copyright-free images from different Internet communities, classified and store them in the database.
 * Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
 * Completed the tasks of image recognition leveraging OpenCV for Python TensorFlow, semantic analysis with TensorFlow for Python, and image crawling using Python, and utilized MySQL in the part of the database.

@@ -92,7 +92,7 @@ _Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020_<br>
 
 
 College Campus Outdoor-scene Navigation System Based on Unity 3D<br>
-_Position: Person in Charge ;Academic Supervisor: Yuan Sun from Jun. 2019 to Jul. 20_<br>
+_Position: Person in Charge ;Academic Supervisor: Yuan Sun from Jun. 2019 to Jul. 2020_<br>
 * This is my first College Students' Innovative Entrepreneurial Training Plan Program, and I am the leader of this Program.
 * Using Unity 3D, built a 1: 1 real-scene 3D map of BUPT campus for users to virtually visit the Beijing University of Posts and Telecommunications(My university). Users are able to walk in this map and view the scene.
 * Put our 3D map packaged into PC software with some functions released on the mobile phone end and adjusted the adaptability of the mobile end.

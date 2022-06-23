@@ -11,7 +11,7 @@ I am Pengze Li, a college student from Beijing University of Posts and Telecommu
 
 
 
-**E-mail: linsonng@bupt.edu.cn**<br>
+**E-mail: patrick15635@gmail.com**<br>
 *I sometimes use Sonng Lin as a pseudonym.
 
 ### Educations

@@ -7,11 +7,11 @@
 
 
 
-I am Pengze Li, a college student from University College London(UCL), majoring in Computer Graphics, Vision and Imaging. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems.
+I am Pengze Li, a college student from University College London(UCL), majoring in Computer Graphics, Vision and Imaging. My research interest focuses on computer vision (e.g., denoising, image processing, recognition), improving image (video) quality and its applications in real-world problems.
 
 
 
-**E-mail: patrick15635@gmail.com**<br>
+**E-mail: LINSONNG@163.COM**<br>
 *I sometimes use Sonng Lin as a pseudonym.
 
 ### Educations

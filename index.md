@@ -16,6 +16,12 @@ I am Pengze Li, a college student from University College London(UCL), majoring 
 
 ### Educations
 **Main education experience**<br>
+Sep. 2022~Jul. 2023<br>
+University College London(UCL)<br>
+London,the United Kingdom<br>
+Computer Graphics, Vision and Imaging<br>
+
+
 Sep. 2018~Jul. 2022<br>
 Beijing University of Posts and Telecommunications (BUPT)<br>
 Beijing, China<br>

@@ -37,7 +37,7 @@ School of Continuing and Lifelong Education in collaboration with Faculty of Eng
 Online<br>
 Programme Name: Artifical Intelligence and Machine Learning<br>
 
-15 Jul. to 30 Sep. 2019<br>
+15 Jul. to 30 Jul. 2019<br>
 STEM summer school, Loughborough University<br>
 Leicester, UK<br>
 STEM lab

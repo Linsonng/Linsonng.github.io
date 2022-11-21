@@ -45,14 +45,14 @@ STEM lab
 ### Research Experience
 _Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)_<br>
 _Institute of Automation, Chinese Academy of Science_<br>
-_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May 2021~June 2022<br>
+_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May 2021~June 2022_<br>
 
 In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run with PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network. Here are some of my work(before 2022.6):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
 * Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
 * Pruning was the first way I applied, and I also developed some other architectures and tried many tricks. <br>
 * To propose a better motion modeling scheme based on 3D convolution.<br>
-* Not only in denoising, I also did several tasks like reproducing segmentation networks and deploying apps.
+* Not only denoising, I also gained some other experience in video super resolution and deploying segmentation networks apps.
 
 _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 
@@ -62,11 +62,17 @@ _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/ma
 </video>
 
 **Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction**<br>
-_Academic Supervisor: Dr. Junli Yang, Sep 2020~June 2022<br> 
+_Academic Supervisor: Dr. Junli Yang, Sep 2020~June 2022_<br> 
 
 In the DeepGlobe Road Extraction Challenge, our team aims to receive a better IOU score than other teams. Based on DLinkNet, we managed to improve the score through reproducing and training models on the 3090ti server using PyTorch. We also designed the fusion consisting of multiple models, such as ResNet, D-LinkNet, SENet, D-block, Transformer, and some other new modules. After adopting the pooling feature map to adapt the narrow-and-slender feature in road extraction tasks, we received expected improvements in IoU scores. Moreover, we conducted road extraction tasks based on Transformer and Convolutional Neural Network (CNN), and compared the results of them, which showed that CNN performs better.<br>
 
 Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction, which will be soon submitted to Remote Sensing.The research was also run with PyTorch, and on GPU (Tesla V100)<br>
+
+**Research on Pedestrian Classification and Recognition Based on Deep Learning**<br>
+_Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan 2022~June 2022_<br> 
+This is my graduation project. In this project, I cooperated with the engineers from Aidong Beyond Artificial Intelligence Technology (Beijing) Co., Ltd.. Based on the private dataset of pedestrians in the factory provided by the company, I completed a pedestrian recognition model based on ResNet, in which I applied data enhancement and other methods. The final recognition rate is greater than 96%. Considering the needs of industry, this project ran with TensorFlow.
+
+Unfortunately, after communicating with the company, I realized that neither the detailed code files nor the training weights can be made public.
 
 **National University of Singapore Online Winter Programme: Artificial Intelligence and Machine Learning**<br>
 _Academic Supervisor: Assoc. Prof. <a target="_blank" href="https://www.linkedin.com/in/motani?originalSubdomain=sg">Mehul Motani</a>, Jan. 2021~Feb. 2021_

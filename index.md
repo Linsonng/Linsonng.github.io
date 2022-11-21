@@ -53,7 +53,7 @@ In this project, our lab focused on denoising network acceleration based on conv
 * Pruning was the first way I applied, and I also developed some other architectures and tried many tricks. <br>
 * To propose a better motion modeling scheme based on 3D convolution.<br>
 * Not only denoising, I also gained some other experience in video super resolution and deploying segmentation networks apps.<br>
-* Some (but not all) of the work is <a target="_blank" href="[https://en.wikipedia.org/wiki/Juan_Bernat](https://github.com/KUYZH/An-Almost-Real-time-Video-Denoising-Model)">here</a>.<br>
+* Some (but not all) of the work is <a target="_blank" href="[ttps://github.com/KUYZH/An-Almost-Real-time-Video-Denoising-Model]">here</a>.<br>
 
 _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 

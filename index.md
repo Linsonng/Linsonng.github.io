@@ -124,7 +124,7 @@ Second Prize of the Electronics Information Design Contest, BUPT	May 2020<br>
 
 
 ### Others
-Second favourite field: medical science and neuroscience.
+Second favourite field: medical science and neuroscience.<br>
 Favorite football player: <a target="_blank" href="https://en.wikipedia.org/wiki/Juan_Bernat">Juan Bernat</a><br>
 I played right back(No.25) in my college football team.<br>
 <img src="Collegeteam.JPG" class="img-rounded" width="600" height="400" alt="Something wrong with the picture!"/><br/>

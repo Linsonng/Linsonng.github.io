@@ -32,12 +32,12 @@ Beijing 101 Middle School <br>
 Beijing, China<br>
 
 **Short-term education experience**<br>
-23 Jan. to 06 Feb. 2021(18 contact hours)<br>
+Jan. to Feb. 2021(18 contact hours)<br>
 School of Continuing and Lifelong Education in collaboration with Faculty of Engineering, National University of Singapore<br>
 Online<br>
 Programme Name: Artifical Intelligence and Machine Learning<br>
 
-15 Jul. to 30 Jul. 2019<br>
+Jul. 2019<br>
 STEM summer school, Loughborough University<br>
 Leicester, UK<br>
 STEM lab

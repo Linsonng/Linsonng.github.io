@@ -72,7 +72,7 @@ Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enha
 _Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan 2022~June 2022_<br> 
 This is my graduation project. In this project, I cooperated with the engineers from Aidong Beyond Artificial Intelligence Technology (Beijing) Co., Ltd.. Based on the private dataset of pedestrians in the factory provided by the company, I completed a pedestrian recognition model based on ResNet, in which I applied data enhancement and other methods. The final recognition rate is greater than 96%. Considering the needs of industry, this project ran with TensorFlow.
 
-Unfortunately, after communicating with the company, I realized that neither the detailed code files nor the training weights can be made public.
+Unfortunately, after communicating with the company, I realized that neither the full code files nor the training weights can be made public.
 
 **National University of Singapore Online Winter Programme: Artificial Intelligence and Machine Learning**<br>
 _Academic Supervisor: Assoc. Prof. <a target="_blank" href="https://www.linkedin.com/in/motani?originalSubdomain=sg">Mehul Motani</a>, Jan. 2021~Feb. 2021_

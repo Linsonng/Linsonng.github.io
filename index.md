@@ -45,7 +45,7 @@ STEM lab
 ### Research Experience
 _Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)_<br>
 _Institute of Automation, Chinese Academy of Science_<br>
-_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May 2021~June 2022_<br>
+_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May. 2021~Jun. 2022_<br>
 
 In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run with PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network. Here are some of my work(before 2022.6):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
@@ -63,14 +63,14 @@ _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/ma
 </video>
 
 **Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction**<br>
-_Academic Supervisor: Dr. Junli Yang, Sep 2020~June 2022_<br> 
+_Academic Supervisor: Dr. Junli Yang, Sep. 2020~Jun. 2022_<br> 
 
 In the DeepGlobe Road Extraction Challenge, our team aims to receive a better IOU score than other teams. Based on DLinkNet, we managed to improve the score through reproducing and training models on the 3090ti server using PyTorch. We also designed the fusion consisting of multiple models, such as ResNet, D-LinkNet, SENet, D-block, Transformer, and some other new modules. After adopting the pooling feature map to adapt the narrow-and-slender feature in road extraction tasks, we received expected improvements in IoU scores. Moreover, we conducted road extraction tasks based on Transformer and Convolutional Neural Network (CNN), and compared the results of them, which showed that CNN performs better.<br>
 
 Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction, which will be soon submitted to Remote Sensing.The research was also run with PyTorch, and on GPU (Tesla V100)<br>
 
 **Research on Pedestrian Classification and Recognition Based on Deep Learning**<br>
-_Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan 2022~June 2022_<br> 
+_Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan. 2022~Jun. 2022_<br> 
 This is my graduation project. In this project, I cooperated with the engineers from <a target="_blank" href="https://www.aidong-ai.com/">Aidong Beyond Artificial Intelligence Technology (Beijing) Co., Ltd.</a>. Based on the private dataset of pedestrians in the factory provided by the company, I completed a pedestrian recognition model based on ResNet, in which I applied data enhancement and other methods. The final recognition rate is greater than 96%. Considering the needs of industry, this project ran with TensorFlow.
 
 Unfortunately, after communicating with the company, I realized that neither the full code files nor the training weights can be made public.

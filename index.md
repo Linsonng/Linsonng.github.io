@@ -47,10 +47,10 @@ _Research on Denoising Network Acceleration Based on Convolutional Neural Networ
 _Institute of Automation, Chinese Academy of Science_<br>
 _Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May 2021~June 2022<br>
 
-In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run in PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network. Here are some of my work(before 2022.6):<br>
+In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run with PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Currently, I'm trying to use 3D convolution to further improve my network. Here are some of my work(before 2022.6):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
 * Tested and reduced the inference time while keeping PSNR(Peak Signal to Noise Ratio) high. <br>
-* Pruning was the first way I turned to, and I also developed some other architectures and tried many tricks. <br>
+* Pruning was the first way I applied, and I also developed some other architectures and tried many tricks. <br>
 * To propose a better motion modeling scheme based on 3D convolution.<br>
 * Not only in denoising, I also did several tasks like reproducing segmentation networks and deploying apps.
 
@@ -66,7 +66,7 @@ _Academic Supervisor: Dr. Junli Yang, Sep 2020~June 2022<br>
 
 In the DeepGlobe Road Extraction Challenge, our team aims to receive a better IOU score than other teams. Based on DLinkNet, we managed to improve the score through reproducing and training models on the 3090ti server using PyTorch. We also designed the fusion consisting of multiple models, such as ResNet, D-LinkNet, SENet, D-block, Transformer, and some other new modules. After adopting the pooling feature map to adapt the narrow-and-slender feature in road extraction tasks, we received expected improvements in IoU scores. Moreover, we conducted road extraction tasks based on Transformer and Convolutional Neural Network (CNN), and compared the results of them, which showed that CNN performs better.<br>
 
-Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction, which will be soon submitted to Remote Sensing.The research was also run in PyTorch, and on GPU (Tesla V100)<br>
+Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction, which will be soon submitted to Remote Sensing.The research was also run with PyTorch, and on GPU (Tesla V100)<br>
 
 **National University of Singapore Online Winter Programme: Artificial Intelligence and Machine Learning**<br>
 _Academic Supervisor: Assoc. Prof. <a target="_blank" href="https://www.linkedin.com/in/motani?originalSubdomain=sg">Mehul Motani</a>, Jan. 2021~Feb. 2021_

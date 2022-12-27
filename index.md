@@ -43,7 +43,7 @@ Leicester, UK<br>
 STEM lab
 
 ### Research Experience
-_Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)_<br>
+**Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)**<br>
 _Institute of Automation, Chinese Academy of Science_<br>
 _Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May. 2021~Jun. 2022_<br>
 

@@ -37,15 +37,30 @@ Summer school, Loughborough University, Leicester, UK<br>
 STEM lab
 
 ## Work Experience
-Image Processing Intern<br>
+**Image Processing Intern, May. 2021 ~ Jun. 2022** <br>
 _Institute of Automation, Chinese Academy of Science_<br>
-_Academic Supervisor: _<a target="_blank" href="https://scholar.google.com/citations?user=o8PT69EAAAAJ&hl=zh-CN">Prof. Jian Cheng</a> (Research Fellow), Dr. Chenghua Li, May. 2021 ~ Jun. 2022_<br>
+_Academic Supervisor: _<a target="_blank" href="https://scholar.google.com/citations?user=o8PT69EAAAAJ&hl=zh-CN">Prof. Jian Cheng</a> (Research Fellow), Dr. Chenghua Li_<br>
+
+Job Responsibilities:<br>
+* Stay updated with the state-of-the-art computer vision and deep learning algorithms;<br>
+* Implement the model based on the Pytorch deep learning framework;<br>
+* Based on U-Net, focus on real-time denoising algorithm;<br>
+* Design, train, evaluate, tune, accelerate models, one of the results is shown below.<br>
+
+_The video shows the denoising results given by the convolutional neural network in 0.5 seconds._<br>
+    
+<video width="360" height="270" controls>
+    <source src="snowboard1.mp4" type="video/mp4">
+    Your browser does not support the video tag
+</video>
 
 
 ## Research Experience
 **Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)**<br>
 _Institute of Automation, Chinese Academy of Science_<br>
 _Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May. 2021 ~ Jun. 2022_<br>
+    
+
 
 In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run with PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Here are some of my work(before 2022.6):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
@@ -57,10 +72,7 @@ In this project, our lab focused on denoising network acceleration based on conv
 
 _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/main/snowboard1.mp4">Here</a> is a small demonstrate video showing the achievement of the denoising project. Gaussian white noise with a standard deviation of 30 is added to the original video as the upper one. The following video shows the denoising results given by the convolutional neural network in 0.5 seconds. Pause at any time to observe the performance of denoising (loop playing may help)._
 
-<video width="360" height="270" controls>
-    <source src="snowboard1.mp4" type="video/mp4">
-    Your browser does not support the video tag
-</video>
+
 
 **Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction**<br>
 _Academic Supervisor: Dr. Junli Yang, Sep. 2020 ~ Jun. 2022_<br> 

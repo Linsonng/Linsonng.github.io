@@ -1,51 +1,51 @@
 ## Welcome to My Pages
 <!---
 -->
-<img src="pic.png" class="img-rounded" width="197" height="281" alt="Something wrong with the picture!"/><br/>
+<img src="pic.png" class="img-rounded" width="197" height="281" alt="Sorry...something wrong with the picture!"/><br/>
 **Pengze Li**<br>
 **MSc Computer Graphics, Vision and Imaging**<br>
 
 
 
-I am Pengze Li, a college student from University College London(UCL), majoring in Computer Graphics, Vision and Imaging. My research interest focuses on computer vision (e.g., denoising, image processing, recognition), improving image (video) quality and its applications in real-world problems.
+I am Pengze Li, a college student from University College London(UCL), majoring in Computer Graphics, Vision and Imaging. My research interest focuses on computer vision (e.g., denoising, image processing, recognition) and its applications in real-world problems.
 
 
 
 **E-mail: LINSONNG@163.COM**<br>
-*I sometimes use Sonng Lin as a pseudonym.
 
-### Educations
+
+## Educations
 **Main education experience**<br>
-Sep. 2022~Jul. 2023<br>
-University College London(UCL)<br>
-London,the United Kingdom<br>
-Computer Graphics, Vision and Imaging<br>
+Sep. 2022 ~ Sep. 2023<br>
+University College London(UCL), London, UK<br>
+MSc. in Computer Graphics, Vision and Imaging<br>
 
 
-Sep. 2018~Jul. 2022<br>
-Beijing University of Posts and Telecommunications (BUPT)<br>
-Beijing, China<br>
+Sep. 2018 ~ Jul. 2022<br>
+Beijing University of Posts and Telecommunications (BUPT), Beijing, China<br>
 B.Eng. in Electronic Science and Technology <br>
 
-Sep. 2015~Jul. 2018<br>
-Beijing 101 Middle School <br>
-Beijing, China<br>
+Sep. 2015 ~ Jul. 2018<br>
+Beijing 101 Middle School, Beijing, China<br>
 
 **Short-term education experience**<br>
-Jan. to Feb. 2021(18 contact hours)<br>
-School of Continuing and Lifelong Education in collaboration with Faculty of Engineering, National University of Singapore<br>
-Online<br>
-Programme Name: Artifical Intelligence and Machine Learning<br>
+Jan. to Feb. 2021, National University of Singapore, Singapore<br>
+Artifical Intelligence and Machine Learning<br>
 
 Jul. 2019<br>
-STEM summer school, Loughborough University<br>
-Leicester, UK<br>
+Summer school, Loughborough University, Leicester, UK<br>
 STEM lab
 
-### Research Experience
+## Work Experience
+Image Processing Intern<br>
+_Institute of Automation, Chinese Academy of Science_<br>
+_Academic Supervisor: _<a target="_blank" href="https://scholar.google.com/citations?user=o8PT69EAAAAJ&hl=zh-CN">Prof. Jian Cheng</a> (Research Fellow), Dr. Chenghua Li, May. 2021 ~ Jun. 2022_<br>
+
+
+## Research Experience
 **Research on Denoising Network Acceleration Based on Convolutional Neural Networks (CNN)**<br>
 _Institute of Automation, Chinese Academy of Science_<br>
-_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May. 2021~Jun. 2022_<br>
+_Academic Supervisor: Prof. Jian Cheng (Research Fellow), Dr. Chenghua Li, May. 2021 ~ Jun. 2022_<br>
 
 In this project, our lab focused on denoising network acceleration based on convolutional neural networks. The research was run with PyTorch, a popular machine learning library, and on GPU (RTX TITAN). Here are some of my work(before 2022.6):<br>
 * Reproduced and retrained serveral video-denoising models, all of them were based on or designed from recent papers. <br>
@@ -63,20 +63,20 @@ _<a target="_blank" href="https://github.com/Linsonng/Linsonng.github.io/blob/ma
 </video>
 
 **Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction**<br>
-_Academic Supervisor: Dr. Junli Yang, Sep. 2020~Jun. 2022_<br> 
+_Academic Supervisor: Dr. Junli Yang, Sep. 2020 ~ Jun. 2022_<br> 
 
 In the DeepGlobe Road Extraction Challenge, our team aims to receive a better IOU score than other teams. Based on DLinkNet, we managed to improve the score through reproducing and training models on the 3090ti server using PyTorch. We also designed the fusion consisting of multiple models, such as ResNet, D-LinkNet, SENet, D-block, Transformer, and some other new modules. After adopting the pooling feature map to adapt the narrow-and-slender feature in road extraction tasks, we received expected improvements in IoU scores. Moreover, we conducted road extraction tasks based on Transformer and Convolutional Neural Network (CNN), and compared the results of them, which showed that CNN performs better.<br>
 
 Recently, we have completed a paper named Multiscale Strip Pooling DLinkNet Enhanced by Channel-wise Attention Mechanism for High Resolution Aerial Image Road Extraction, which will be soon submitted to Remote Sensing.The research was also run with PyTorch, and on GPU (Tesla V100)<br>
 
 **Research on Pedestrian Classification and Recognition Based on Deep Learning**<br>
-_Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan. 2022~Jun. 2022_<br> 
+_Academic Supervisor: Dr. Da Guo, Prof. Xile Cao.  Jan. 2022 ~ Jun. 2022_<br> 
 This is my graduation project. In this project, I cooperated with the engineers from <a target="_blank" href="https://www.aidong-ai.com/">Aidong Beyond Artificial Intelligence Technology (Beijing) Co., Ltd.</a>. Based on the private dataset of pedestrians in the factory provided by the company, I completed a pedestrian recognition model based on ResNet, in which I applied data enhancement and other methods. The final recognition rate is greater than 96%. Considering the needs of industry, this project ran with TensorFlow.
 
 Unfortunately, after communicating with the company, I realized that neither the full code files nor the training weights can be made public.
 
 **National University of Singapore Online Winter Programme: Artificial Intelligence and Machine Learning**<br>
-_Academic Supervisor: Assoc. Prof. <a target="_blank" href="https://www.linkedin.com/in/motani?originalSubdomain=sg">Mehul Motani</a>, Jan. 2021~Feb. 2021_
+_Academic Supervisor: Assoc. Prof. <a target="_blank" href="https://www.linkedin.com/in/motani?originalSubdomain=sg">Mehul Motani</a>, Jan. 2021 ~ Feb. 2021_
 
 This is early and guiding experience in my research.<br>
 In the National University of Singapore Online Winter Programme, I studied some supervised learning algorithms, including Linear Regression, Decision Tree, SVM (Support Vector Machine), Neural Networks, and Confusion Matrix, mainly about their concepts and working principles. Besides, I reproduced these models with Python.<br>
@@ -84,7 +84,7 @@ In the National University of Singapore Online Winter Programme, I studied some 
 Moreover, I leveraged these models and some other extended models to predict the future population of Singapore and China as a completion assignment.<br>
 
 **Research on 5G Frequency Allocation Based on Water Filling Algorithm**<br>
-_Academic Supervisor: Prof. <a target="_blank" href="https://www.ee.ucl.ac.uk/~kwong/">Kai-Kit Wong</a> Jul. 2020~Oct. 2020_<br>
+_Academic Supervisor: Prof. <a target="_blank" href="https://www.ee.ucl.ac.uk/ ~ kwong/">Kai-Kit Wong</a> Jul. 2020 ~ Oct. 2020_<br>
 
 When I was focusing on telecommunications, I joined this research in which I studied the communications knowledge of cellular network and frequency planning, including system modeling, channelfading, water-filling power allocation algorithm, and frequency reuse algorithms often used in 4G/ 5G networks, such as IFR(Integer Frequency Reuse) and FFR(Fractional Frequency Reuse). Models were built on Matlab to simulate signal transmission of QPSK, 16-QAM, 64-QAM, etc. Based on the FFR frequency multiplexing algorithm combined with soft frequency reuse (SFR) technique, optimized the frequency allocation algorithm and improved spectral efficiency finallye improved anti-noise performance and channel capacity.<br>
 

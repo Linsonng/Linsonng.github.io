@@ -32,8 +32,7 @@ Beijing 101 Middle School, Beijing, China<br>
 Jan. to Feb. 2021, National University of Singapore, Singapore<br>
 Artificial Intelligence and Machine Learning<br>
 
-Jul. 2019<br>
-Summer school, Loughborough University, Leicester, UK<br>
+Jul. 2019, Summer school, Loughborough University, Leicester, UK<br>
 STEM lab
 
 ## Work Experience
@@ -43,11 +42,11 @@ _Academic Supervisor: <a target="_blank" href="https://scholar.google.com/citati
 
 Job Responsibilities:<br>
 * Stay updated with the state-of-the-art computer vision and deep learning algorithms;<br>
-* Implement the model on GPU (RTX TITAN), based on Python and Pytorch;<br>
+* Implement convolutional neural network (CNN) models on GPU (RTX TITAN), based on Python and Pytorch;<br>
 * Based on U-Net, focus on real-time denoising algorithm;<br>
 * Design, train, evaluate, tune, and accelerate models, one of the results is shown below.<br>
 
-_The video shows the denoising results given by the convolutional neural network in 0.5 seconds._<br>
+_The video shows the denoising results given by a convolutional neural network in 0.5 seconds._<br>
 <video width="360" height="270" controls>
     <source src="snowboard1.mp4" type="video/mp4">
     Your browser does not support the video tag. Maybe try to switch to Google Chrome.
@@ -79,7 +78,7 @@ _Academic Supervisor: Assoc. Prof. Jianming Huang from Jun. 2020 to May. 2021_<b
 * Designed a translator dedicated to translating Thai personal names and geographical names, which mainly contained four modules: Romanization transcription of Thai letters, Roman transcription-Chinese transliteration (corresponded), Dictionary word search, and user interface.
 * <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=2559">Intranet link</a>
 
-Develop an Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
+Internet Meme Searching & Compositing Tool Based on Crawling and Artificial <br>
 _Academic Supervisor: Prof. Yang Ji from Sep. 2019 to Jul. 2020_<br>
 * Crawled copyright-free images from different Internet communities, classified and store them in the database. Provided functions of emoji search and use through the WeChat mini program, synthesized pictures and texts, as well as the function of AI face-swap.
 * <a target="_blank" href="https://win.bupt.edu.cn/program.do?id=1672">Intranet link</a>
